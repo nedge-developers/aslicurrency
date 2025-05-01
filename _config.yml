@@ -1,0 +1,13 @@
+title: ASLI CURRENCY
+theme: minima
+plugins:
+  - jekyll-feed
+nav:
+  - title: Home
+    url: /
+  - title: Download
+    url: /download/
+  - title: Privacy
+    url: /privacy/
+sass:
+  style: compressed

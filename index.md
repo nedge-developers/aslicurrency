@@ -12,10 +12,11 @@ permalink: /
 
 ## How to Download the App
 
-1. Enable installation from Unknown Sources on your device:  
+1.Tap the Downnload button below to get the app
+2. When prompted, click enable installations from unknown sources.
+3 You can manually enable installation from Unknown Sources on your device:  
    *Android Settings → Security → Unknown sources*  
-2. Tap the button below to fetch the APK.  
-3. Once downloaded, open the APK file and follow the prompts to install.  
+4. Once downloaded, open the APK file and follow the prompts to install.  
 
 <a class="button" href="https://example.com/your-app.apk" target="_blank" rel="noopener">
   Download APK

@@ -14,7 +14,7 @@ permalink: /
 
 1.Tap the Downnload button below to get the app
 2. When prompted, click enable installations from unknown sources.
-3 You can manually enable installation from Unknown Sources on your device:  
+3. You can manually enable installation from Unknown Sources on your device:  
    *Android Settings → Security → Unknown sources*  
 4. Once downloaded, open the APK file and follow the prompts to install.  
 

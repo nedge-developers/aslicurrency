@@ -39,7 +39,7 @@ permalink: /privacy/
 <body>
 
   <h1>Privacy Policy and Legal Disclaimer</h1>
-  <div class="updated">Last Updated: 25-Apr-25</div>
+  <div class="updated">Last Updated: 04-May-2025</div>
 
   <h2>Introduction</h2>
   <p>Welcome to the Aslicurrency app! Your privacy is extremely important to us. This Privacy Policy outlines how we collect, use, and protect the information you share with us. By using our app, you agree to the practices described in this policy.</p>

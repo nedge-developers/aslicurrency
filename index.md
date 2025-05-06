@@ -17,7 +17,7 @@ permalink: /
    *Android Settings → Security → Unknown sources*  
 4. Once downloaded, open the APK file and follow the prompts to install.  
 
-<a class="button" href="https://example.com/your-app.apk" target="_blank" rel="noopener">
+<a class="button" href="https://github.com/nedge-developers/aslicurrency/releases/download/v1.0/app-release.apk" target="_blank" rel="noopener">
   Download APK
 </a>
 

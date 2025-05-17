@@ -1,13 +1,8 @@
----
-layout: home
-title:
-permalink: /
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AsliCurrency App</title>
+  <title>Download AsliCurrency App</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     /* Reset & base */
@@ -18,24 +13,8 @@ permalink: /
       color: #333;
       background: #f9f9f9;
       padding: 1rem;
-    }
-
-    /* Gallery of banners */
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 0.5rem;
-      margin-bottom: 2rem;
-    }
-    .gallery img {
-      width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 4px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-
-    /* Centered download section */
+    
+ }
     .download-section {
       text-align: center;
       margin: 2rem 0;
@@ -144,8 +123,3 @@ permalink: /
 
 </body>
 </html>
-
-
-
-
-

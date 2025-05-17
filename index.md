@@ -33,6 +33,7 @@
       background: #004999;
     }
 
+}
     /* Steps styling */
     .steps {
       max-width: 600px;
@@ -59,7 +60,7 @@
       justify-content: center;
       font-weight: bold;
     }
-
+}
     /* Privacy link */
     .footer {
       text-align: center;

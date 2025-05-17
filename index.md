@@ -3,17 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title> AsliCurrency</title>
+ 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    /* Reset & base */
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: sans-serif;
-      line-height: 1.6;
-      color: #333;
-      background: #f9f9f9;
-      padding: 1rem;
-    }
 }
     /* Gallery of banners */
     .gallery {

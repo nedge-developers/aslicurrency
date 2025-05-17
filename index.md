@@ -119,7 +119,7 @@
   <!-- Download button -->
   <div class="download-section">
     <a class="button"
-       href="https://github.com/nedge-developers/aslicurrency/releases/download/v2.0/app-release.apk"
+       href="https://github.com/nedge-developers/aslicurrency/releases/download/v2.0/Aslicurrency.apk"
        target="_blank" rel="noopener">
       Download AsliCurrency APP
     </a>

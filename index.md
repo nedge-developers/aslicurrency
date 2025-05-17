@@ -5,10 +5,18 @@ permalink: /
 ---
 
 <!-- Top banners -->
-![Top banner](/css/assets/topimage.jpg){: .responsive-image }
-![Mid banner 1](/css/assets/midplaced.jpg){: .responsive-image }
-![Mid banner 2](/css/assets/midplaced2.jpg){: .responsive-image }
-![Mid banner 3](/css/assets/midplaced3.jpg){: .responsive-image }
+![Top banner](/css/assets/top1.jpg){: .responsive-image }
+![Mid banner 1](/css/assets/top2.jpg){: .responsive-image }
+![Mid banner 2](/css/assets/top3.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top4.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top5.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top6.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top7.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top8.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top9.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top10.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top11.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top12.jpg){: .responsive-image }
 
 ## How to Download the App
 

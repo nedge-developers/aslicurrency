@@ -5,7 +5,7 @@
   <title> AsliCurrency</title>
  
   <meta name="viewport" content="width=device-width, initial-scale=1">
-}
+
     /* Gallery of banners */
     .gallery {
       display: grid;

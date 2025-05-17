@@ -13,8 +13,24 @@
       color: #333;
       background: #f9f9f9;
       padding: 1rem;
-    
- }
+    }
+}
+    /* Gallery of banners */
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+    }
+    .gallery img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+}
+    /* Centered download section */
     .download-section {
       text-align: center;
       margin: 2rem 0;
@@ -32,7 +48,6 @@
     .download-section .button:hover {
       background: #004999;
     }
-
 }
     /* Steps styling */
     .steps {
@@ -73,6 +88,7 @@
     .footer .link:hover {
       text-decoration: underline;
     }
+    
   </style>
 </head>
 <body>

@@ -25,11 +25,12 @@ permalink: /
 </a>
 
 ![Mid banner 3](/css/assets/top11.jpg){: .responsive-image }
+
+![Mid banner 3](/css/assets/top12.jpg){: .responsive-image }
 <p style="margin-top: 1em;">
   <a href="/privacy/" class="link">Privacy Policy</a>
 </p>
 
-![Mid banner 3](/css/assets/top12.jpg){: .responsive-image }
 ![Mid banner 3](/css/assets/top13.jpg){: .responsive-image }
 ![Mid banner 3](/css/assets/top14.jpg){: .responsive-image }
 

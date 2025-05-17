@@ -15,11 +15,6 @@ permalink: /
 ![Mid banner 3](/css/assets/top8.jpg){: .responsive-image }
 ![Mid banner 3](/css/assets/top9.jpg){: .responsive-image }
 ![Mid banner 3](/css/assets/top10.jpg){: .responsive-image }
-![Mid banner 3](/css/assets/top11.jpg){: .responsive-image }
-![Mid banner 3](/css/assets/top12.jpg){: .responsive-image }
-
-## How to Download the App
-
 2. When prompted, click enable installations from unknown sources.
 3. You can manually enable installation from Unknown Sources on your device:  
    *Android Settings → Security → Unknown sources*  
@@ -29,7 +24,16 @@ permalink: /
   Download APK
 </a>
 
+![Mid banner 3](/css/assets/top11.jpg){: .responsive-image }
 <p style="margin-top: 1em;">
   <a href="/privacy/" class="link">Privacy Policy</a>
 </p>
+
+![Mid banner 3](/css/assets/top12.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top13.jpg){: .responsive-image }
+![Mid banner 3](/css/assets/top14.jpg){: .responsive-image }
+
+
+
+
 

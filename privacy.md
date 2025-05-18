@@ -1,7 +1,8 @@
 ---
-layout: page
-
+layout: default
+title: Privacy Policy
 permalink: /privacy/
+---
 ---
 <head>
   <meta charset="UTF-8">

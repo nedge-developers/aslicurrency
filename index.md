@@ -42,7 +42,7 @@ title: AsliCurrency
 </div>
 
 <div class="footer">
-  <a href="privacy.html" class="link">Privacy Policy</a>
+  <a href="privacy.md" class="link">Privacy Policy</a>
 </div>
 
 <style>

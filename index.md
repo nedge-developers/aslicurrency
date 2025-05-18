@@ -48,8 +48,6 @@
   </div>
   
   <!-- Footer -->
-  <div class="footer">
-  <a href="privacy.md" class="link">Privacy Policy</a>
-  </div>
+
 </body>
 </html>

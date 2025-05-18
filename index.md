@@ -49,7 +49,7 @@
   
   <!-- Footer -->
   <div class="footer">
-  <a href="privacy" class="link">Privacy Policy</a>
+  <a href="privacy.md" class="link">Privacy Policy</a>
   </div>
 </body>
 </html>

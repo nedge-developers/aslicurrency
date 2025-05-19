@@ -10,15 +10,6 @@
   <!-- Banners -->
   <div class="gallery">
     <img src="css/assets/top1.jpg" alt="Top banner">
-    <img src="css/assets/top2.jpg" alt="Mid banner 1">
-    <img src="css/assets/top3.jpg" alt="Mid banner 2">
-    <img src="css/assets/top4.jpg" alt="Mid banner 3">
-    <img src="css/assets/top5.jpg" alt="Mid banner 4">
-    <img src="css/assets/top6.jpg" alt="Mid banner 5">
-    <img src="css/assets/top7.jpg" alt="Mid banner 6">
-    <img src="css/assets/top8.jpg" alt="Mid banner 7">
-    <img src="css/assets/top9.jpg" alt="Mid banner 8">
-    <img src="css/assets/top10.jpg" alt="Mid banner 9">
   </div>
   
   <!-- Install steps -->

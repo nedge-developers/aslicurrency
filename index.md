@@ -8,7 +8,24 @@
 </head>
 <body>
 
-  .download-section {
+ 
+  <!-- Banners -->
+  <div class="gallery">
+    <img src="css/assets/top1.png" alt="Top banner">
+  </div>
+  
+
+  
+  <!-- Download button -->
+  <div class="download-section">
+    <a class="button"
+       href="https://github.com/nedge-developers/aslicurrency/releases/download/v2.0/Aslicurrency.apk"
+       target="_blank" rel="noopener">
+      Download AsliCurrency APP
+    </a>
+  </div>
+  
+ .download-section {
   text-align: center;
   margin: 40px 0;
 }
@@ -28,21 +45,6 @@
 .button:hover {
   background-color: #45a049;
 }
-  <!-- Banners -->
-  <div class="gallery">
-    <img src="css/assets/top1.png" alt="Top banner">
-  </div>
-  
-
-  
-  <!-- Download button -->
-  <div class="download-section">
-    <a class="button"
-       href="https://github.com/nedge-developers/aslicurrency/releases/download/v2.0/Aslicurrency.apk"
-       target="_blank" rel="noopener">
-      Download AsliCurrency APP
-    </a>
-  </div>
   
   <!-- More banners if needed -->
   

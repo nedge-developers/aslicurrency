@@ -7,6 +7,27 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
+  .download-section {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.button {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
   <!-- Banners -->
   <div class="gallery">
     <img src="css/assets/top1.png" alt="Top banner">

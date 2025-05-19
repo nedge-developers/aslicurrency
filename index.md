@@ -9,7 +9,7 @@
 <body>
   <!-- Banners -->
   <div class="gallery">
-    <img src="css/assets/top1.jpg" alt="Top banner">
+    <img src="css/assets/top1.png" alt="Top banner">
   </div>
   
   <!-- Install steps -->

@@ -1,31 +1,25 @@
+---
+layout: default
+title: AsliCurrency
+---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>AsliCurrency</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 30px;
+}
 
- 
-  <!-- Banners -->
-  <div class="gallery">
-    <img src="css/assets/top1.png" alt="Top banner">
-  </div>
-  
+.gallery img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-  
-  <!-- Download button -->
-  <div class="download-section">
-    <a class="button"
-       href="https://github.com/nedge-developers/aslicurrency/releases/download/v2.0/Aslicurrency.apk"
-       target="_blank" rel="noopener">
-      Download AsliCurrency APP
-    </a>
-  </div>
-  
- .download-section {
+.download-section {
   text-align: center;
   margin: 40px 0;
 }
@@ -45,14 +39,32 @@
 .button:hover {
   background-color: #45a049;
 }
-  
-  <!-- More banners if needed -->
-  
-  <!-- Footer -->
-   <a class="button"
-       href= "https://aslicurrency.com/privacy/"
-       target="_blank" rel="noopener">
-     Privacy Policy
-    </a>
-</body>
-</html>
+
+.footer {
+  text-align: center;
+  margin-top: 3rem;
+}
+</style>
+
+<!-- Banners -->
+<div class="gallery">
+  <img src="css/assets/top1.png" alt="Top banner">
+</div>
+
+<!-- Download button -->
+<div class="download-section">
+  <a class="button"
+     href="https://github.com/nedge-developers/aslicurrency/releases/latest/download/Aslicurrency.apk"
+     target="_blank" rel="noopener">
+    Download AsliCurrency APP
+  </a>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <a class="button"
+     href="/privacy/"
+     target="_blank" rel="noopener">
+    Privacy Policy
+  </a>
+</div>

@@ -12,14 +12,7 @@
     <img src="css/assets/top1.png" alt="Top banner">
   </div>
   
-  <!-- Install steps -->
-  <ol class="steps">
-    <li>When prompted, click "Enable installations from unknown sources."</li>
-    <li>You can also manually enable it in your device settings:<br>
-        <em>Settings → Security → Unknown sources</em>
-    </li>
-    <li>Once downloaded, open the APK file and follow the install prompts.</li>
-  </ol>
+
   
   <!-- Download button -->
   <div class="download-section">
@@ -31,14 +24,12 @@
   </div>
   
   <!-- More banners if needed -->
-  <div class="gallery">
-    <img src="css/assets/top11.jpg" alt="Banner">
-    <img src="css/assets/top12.jpg" alt="Banner">
-    <img src="css/assets/top13.jpg" alt="Banner">
-    <img src="css/assets/top14.jpg" alt="Banner">
-  </div>
   
   <!-- Footer -->
-
+   <a class="button"
+       href= "privacy.md"
+       target="_blank" rel="noopener">
+     Privacy Policy
+    </a>
 </body>
 </html>

@@ -27,7 +27,7 @@
   
   <!-- Footer -->
    <a class="button"
-       href= "aslicurrency/privacy.md"
+       href= "https://aslicurrency.com/privacy/"
        target="_blank" rel="noopener">
      Privacy Policy
     </a>

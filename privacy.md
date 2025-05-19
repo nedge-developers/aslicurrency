@@ -42,7 +42,7 @@ We do not share your data with third parties. However, third-party libraries lik
 
 Please review their respective privacy policies:
 - Firebase Privacy Policy
-- Google AdMob Privacy Policy
+- Start.io Privacy Policy
 - OkHttp/Retrofit Data Use
 
 By using the app, you consent to this limited data processing.

@@ -59,7 +59,9 @@ title: AsliCurrency
     Download AsliCurrency APP
   </a>
 </div>
-
+<div>
+  <p> = <b>THIS IS A TEST/BETA APP AND NOT A FINAL PRODUCT</b> </p>
+</div>
 <!-- Footer -->
 <div class="footer">
   <a class="button"

@@ -60,6 +60,7 @@ title: AsliCurrency
   </a>
 </div>
 <div>
+  <p> <b>APP last updated on: 22-June-2025</b> </p>
   <p> <b>THIS IS A TEST/BETA APP AND NOT A FINAL PRODUCT</b> </p>
 </div>
 <!-- Footer -->

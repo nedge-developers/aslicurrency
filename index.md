@@ -54,13 +54,14 @@ title: AsliCurrency
 <!-- Download button -->
 <div class="download-section">
   <a class="button"
-     href="https://github.com/nedge-developers/aslicurrency/releases/latest/download/Aslicurrency.apk"
+     href="https://github.com/nedge-developers/aslicurrency/releases/download/v2.0/app-release.apk"
      target="_blank" rel="noopener">
     Download AsliCurrency APP
   </a>
 </div>
 <div>
-  <p> <b>APP last updated on: 22-June-2025</b> </p>
+  <p> <b>APP last updated on: 21-Jul-2025 v2.0</b> </p>
+  <p> Support for v1.0 would after 31-Jul-2025</p>
   <p> <b>THIS IS A TEST/BETA APP AND NOT A FINAL PRODUCT</b> </p>
 </div>
 <!-- Footer -->

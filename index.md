@@ -61,7 +61,7 @@ title: AsliCurrency
 </div>
 <div>
   <p> <b>APP last updated on: 21-Jul-2025 v2.0</b> </p>
-  <p> Support for v1.0 would after 31-Jul-2025</p>
+  <p> Support for v1.0 would end after 31-Jul-2025</p>
   <p> <b>THIS IS A TEST/BETA APP AND NOT A FINAL PRODUCT</b> </p>
 </div>
 <!-- Footer -->
